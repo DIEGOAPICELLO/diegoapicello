@@ -2,6 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 Formado em Gestão Financeira.
+<br>
 Atualmente trabalho como consultor de soluções e estou no Curso de Análise e desenvolvimento de sistemas.
 
 ## Ferramentas e Tecnologias

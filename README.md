@@ -1,6 +1,7 @@
 # Olá, me chamo Diego Apicello ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
+Formado em Gestão Financeira.
 Atualmente trabalho como consultor de soluções e estou no Curso de Análise e desenvolvimento de sistemas.
 
 ## Ferramentas e Tecnologias

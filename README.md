@@ -1,7 +1,7 @@
 # Olá, me chamo Diego Apicello ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-Atualmente trabalho como consultor de soluções e estou no Curso de Analise e desenvolvimento de sistemas.
+Atualmente trabalho como consultor de soluções e estou no Curso de Análise e desenvolvimento de sistemas.
 
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
